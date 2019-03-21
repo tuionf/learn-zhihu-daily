@@ -1,6 +1,6 @@
 # learn-zhihu
 
-> A Vue.js project
+本项目是知乎日报的学习笔记，[原项目可以点击这里查看](https://github.com/walleeeee/daily-zhihu)
 
 ## Build Setup
 
@@ -33,7 +33,6 @@ Vuex 使用**单一状态树**——是的，用一个对象就包含了全部�
 
 
 mapState——解决的问题：当一个组件需要获取多个状态时候，将这些状态都声明为计算属性会有些重复和冗余
-
 
 
 ### import时如何正确使用花括号'{ }'
